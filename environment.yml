@@ -7,8 +7,6 @@ dependencies:
   - lmfit
   - argparse
   - nibabel
-  - multiprocessing
   - numpy
   - matplotlib
-  - cPickle
   - wxpython
