@@ -1,2 +1,8 @@
+lmfit
+argparse
+nibabel
+numpy
+matplotlib
+wxpython
 multiprocessing
 cpickle
