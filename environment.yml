@@ -4,9 +4,4 @@ channels:
   - conda-forge
 dependencies:
   - python=2.7
-  - lmfit
-  - argparse
-  - nibabel
-  - numpy
-  - matplotlib
-  - wxpython
+
